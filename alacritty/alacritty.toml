@@ -1,0 +1,22 @@
+import = [
+    "~/.config/alacritty/themes/themes/github_dark_tritanopia.toml"
+]
+[env]
+  TERM = "xterm-256color"
+[window]
+  padding.x= 9
+  padding.y= 8
+
+  decorations = "Buttonless"
+  dynamic_padding = true
+
+  opacity = 0.9
+  blur = true
+
+  option_as_alt = "Both"
+
+
+[font]
+normal = {family = "JetBrainsMono Nerd Font Mono", style="ExtraBold"}
+size = 12
+offset = {x = 0, y = 0}
