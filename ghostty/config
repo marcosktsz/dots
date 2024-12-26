@@ -11,3 +11,5 @@ macos-titlebar-style = hidden
 theme = "Atom"
 
 bold-is-bright = true
+
+copy-on-select = true
