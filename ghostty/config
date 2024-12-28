@@ -13,3 +13,10 @@ theme = "Atom"
 bold-is-bright = true
 
 copy-on-select = true
+
+macos-icon = custom-style
+
+macos-icon-frame = plastic
+
+macos-icon-screen-color = #261c22
+macos-icon-ghost-color = #e0b22d
