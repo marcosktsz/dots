@@ -9,7 +9,7 @@ window-padding-balance = true
 
 macos-titlebar-style = hidden
 
-theme = "Atom"
+theme = "Jellybeans"
 
 bold-is-bright = true
 
@@ -21,3 +21,5 @@ macos-icon-frame = plastic
 
 macos-icon-screen-color = #261c22
 macos-icon-ghost-color = #e0b22d
+
+window-vsync = true
