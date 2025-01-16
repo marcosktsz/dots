@@ -1,7 +1,7 @@
 font-size = 12
 font-thicken = true
-background-opacity = 0.85
-background-blur-radius = 50
+background-opacity = 0.70
+background-blur-radius = 100
 
 window-padding-x = 8
 window-padding-y = 8
