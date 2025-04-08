@@ -1,6 +1,6 @@
 font-size = 12
 font-thicken = true
-background-opacity = 0.70
+background-opacity = 0.85
 background-blur-radius = 100
 
 window-padding-x = 8
@@ -9,7 +9,7 @@ window-padding-balance = true
 
 macos-titlebar-style = hidden
 
-theme = "Jellybeans"
+theme = "iTerm2 Pastel Dark Background"
 
 bold-is-bright = true
 
