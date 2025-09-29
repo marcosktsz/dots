@@ -16,7 +16,6 @@ after-startup-command = []
 
 # Start AeroSpace at login
 start-at-login = true
-on-focus-changed = ['move-mouse window-lazy-center'] # Mouse lazily follows any focus (window or workspace)
 
 
 
